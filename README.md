@@ -317,7 +317,7 @@ Attribution is appreciated.
 
 ## ✨ Credits
 
-Developed by **Paul Dubourg**  
+Developed by **Regol**  
 Designed for exploratory AI research, social behavior modeling, and interactive visualization in Python.
 
 > “A society of learning agents — where cooperation, greed, and evolution emerge from code.”
