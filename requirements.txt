@@ -1,0 +1,12 @@
+# Core AI
+torch>=2.2,<3.0
+
+# Visualization and plotting
+matplotlib>=3.8,<3.10
+networkx>=3.3,<4.0
+
+# Optional dependencies for GUI (already in base image but safe to keep)
+tk>=0.1.0; platform_system=="Linux"
+
+# General utilities
+numpy>=1.26,<2.
